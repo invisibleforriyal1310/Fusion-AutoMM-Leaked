@@ -1,0 +1,40 @@
+#[Bot Token]
+token = ""
+
+#[GuildID]
+guildID = ''
+
+#[Thread Channel]
+thread_channel = ''
+
+#[MongoDB URL]
+mongoURL = ''
+
+#[WEBHOOKS]
+payment_webhook = ''
+transcript_webhook = ''
+support_webhook = ''
+
+
+#[Admins]
+admin = [""]
+
+#[tatum]
+apikey = 't-67c48c02bdbabe2071292294-ff2cc3887e7f4a41815cbd5b'
+xpub = ""
+mnemonic = ""
+
+#[blockcypher]
+apiToken = [
+    '64ede89971ca4ddc93ce1b7be7b82c0d',
+    '',
+    '',
+    '',
+    ''
+]
+
+#[SYSTEM]
+timeout = '60000' # 60 seconds
+timeout2 = '20000' # 20 seconds
+client_role = ''
+proxy = 'qvaqmfth-rotate:oz7xjos6at20@p.webshare.io:80'
